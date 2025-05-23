@@ -3,7 +3,6 @@
 <head>
   <title>Outpass Confirmation</title>
   <title>Outpass Request</title>
->>>>>>> tab1
 <linkd>
   <title>Outpass Confirmation</title>
     <link rel="stylesheet" href="style.css">
@@ -18,7 +17,10 @@
 
 		    <script src="script.js"></script>
 </body>
-</html><!DOCTYPE html>
+</html>
+
+<!DOCTYPE html>
+
 <html>
 	<head>
 		  <title>Outpass Confirmation</title>
@@ -34,7 +36,7 @@
 
 			    <script src="script.js"></script>
 	</body>
-</html>rel="stylesheet" href="style.css">
+</html><rel="stylesheet" href="style.css">
 	</head>
 <body>
   <img src="download.png">
@@ -47,7 +49,6 @@
   <script src="script.js"></script>
 </body>
 
-=======
   <h2>Outpass Request Form</h2>
   <form onsubmit="submitRequest(event)">
     <input type="text" id="name" placeholder="Student Name" required><br>
@@ -59,5 +60,4 @@
 
   <script src="script.js"></script>
 </body>
->>>>>>> tab1
 </html>

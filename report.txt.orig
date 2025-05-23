@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<<<<<<< HEAD
+  <title>Outpass Confirmation</title>
+=======
+  <title>Outpass Request</title>
+>>>>>>> tab1
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <img src="download.png">
+
+<<<<<<< HEAD
+  <h2>Outpass Request Submitted Successfully!</h2>
+  <div id="details"></div>
+  <br>
+  <a href="login.html"><button>Back to Login page </button></a>
+
+  <script src="script.js"></script>
+</body>
+
+=======
+  <h2>Outpass Request Form</h2>
+  <form onsubmit="submitRequest(event)">
+    <input type="text" id="name" placeholder="Student Name" required><br>
+    <input type="text" id="reason" placeholder="Reason for Outpass" required><br>
+    <input type="date" id="date" required><br>
+    <input type="time" id="time" required><br>
+    <button type="submit">Submit Request</button>
+  </form>
+
+  <script src="script.js"></script>
+</body>
+>>>>>>> tab1
+</html>
