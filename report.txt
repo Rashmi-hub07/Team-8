@@ -5,13 +5,14 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <img src="download.png" alt="Amity Logo" class="logo">
+  <img src="download.png">
 
   <h2>Outpass Request Submitted Successfully!</h2>
   <div id="details"></div>
   <br>
-  <a href="login.html"><button>Back to Login</button></a>
+  <a href="login.html"><button>Back to Login page </button></a>
 
   <script src="script.js"></script>
 </body>
+
 </html>
